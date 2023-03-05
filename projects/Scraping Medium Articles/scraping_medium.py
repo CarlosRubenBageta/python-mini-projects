@@ -4,6 +4,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
+
 # switching to current running python files directory
 os.chdir('\\'.join(__file__.split('/')[:-1]))
 
